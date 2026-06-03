@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Integrated **M.Sc. in Computer Science (AI & ML)**
-- 🤖 Passionate about **Artificial Intelligence, Cybersecurity, and Computer Vision**
+- 🤖 Passionate about **Artificial Intelligence and Computer Vision**
 - 🚨 Currently building **Zero-Day Intrusion Detection Systems**
 - 💻 Backend-focused developer using **Python, Django, and FastAPI**
 - 🚀 Interested in building **AI-powered real-world applications**
